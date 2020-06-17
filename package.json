@@ -1,13 +1,29 @@
 {
   "name": "qing-markdown-loader",
-  "version": "1.0.3",
-  "description": "marked-loader markdown-loader marked markdown loader vue vue-cli4",
-  "main": "index.js",
   "author": "qinkaiyuan",
+  "version": "1.0.16",
+  "description": "read from remote, local *.md files or markdown string converted to HTML string",
+  "keywords": [
+    "markdown to html",
+    "md to html",
+    "marked-loader",
+    "markdown-loader",
+    "marked",
+    "markdown",
+    "loader",
+    "vue",
+    "vue-cli4"
+  ],
   "license": "MIT",
-  "dependencies": {
-    "marked": "^1.1.0"
+  "homepage": "https://github.com/qinkaiyuan/qing-markdown-loader#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinkaiyuan/qing-markdown-loader.git"
   },
+  "bugs": {
+    "url": "https://github.com/qinkaiyuan/qing-markdown-loader/issues"
+  },
+  "main": "index.js",
   "files": [
     "node_modules/",
     "package.json",
