@@ -32,4 +32,4 @@ console.log(hello)
 ```
 
 ### 结合其他项目使用
-* [qing-markdown](https://github.com/qinkaiyuan/qing-markdown#qing-markdown) Vue 组件，可以将本地或远程 .md 文件和 markdown 字符串解析为 html 以显示
+* [qing-markdown](https://github.com/qinkaiyuan/qing-markdown#qing-markdown) Vue Markdown 组件，可以将本地或远程 .md 文件以及 markdown 字符串解析为 HTML 显示
