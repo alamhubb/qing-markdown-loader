@@ -3,6 +3,9 @@
 ### 说明
 本项目是一个加载 .md 文件，并返回文件内内容字符串的 webpack loader，实现使 webpack 可加载 .md 文件的功能
 
+### 演示项目参考
+* [qing-markdown 演示项目](https://github.com/qinkaiyuan/qing-markdown#%E6%BC%94%E7%A4%BA%E9%A1%B9%E7%9B%AE)
+
 ### npm 安装
 ```bash
 npm install qing-markdown-loader -D
