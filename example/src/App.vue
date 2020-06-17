@@ -22,6 +22,5 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
-        margin-top: 60px;
     }
 </style>

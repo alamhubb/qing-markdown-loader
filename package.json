@@ -1,12 +1,11 @@
 {
   "name": "qing-markdown-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "marked-loader markdown-loader marked markdown loader vue vue-cli4",
   "main": "index.js",
   "author": "qinkaiyuan",
   "license": "MIT",
   "dependencies": {
-    "highlight.js": "^10.1.0",
     "marked": "^1.1.0"
   },
   "files": [
