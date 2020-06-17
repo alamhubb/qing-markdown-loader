@@ -29,4 +29,4 @@ console.log(hello)
 ```
 
 ### 结合其他项目使用
-* [qing-markdown](https://github.com/qinkaiyuan/qing-markdown#qing-markdown) 一个可将本地或远程的 .md 文件、 markdown 字符串解析成 html 展示的 vue 组件
+* [qing-markdown](https://github.com/qinkaiyuan/qing-markdown#qing-markdown) 一个可将本地或远程 .md 文件、 markdown 字符串解析成 html 展示的 vue 组件
