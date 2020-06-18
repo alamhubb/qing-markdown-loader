@@ -2,7 +2,7 @@
   "name": "qing-markdown-loader",
   "author": "qinkaiyuan",
   "version": "1.0.16",
-  "description": "read from remote, local *.md files or markdown string converted to HTML string",
+  "description": "Webpack loader, loads .md files and returns the file's internal content string to enable webpack to load .md files.",
   "keywords": [
     "markdown to html",
     "md to html",

@@ -1,10 +1,10 @@
 <h1 align="center">qing-markdown-loader</h1>
 
 ### 说明
-本项目是一个 webpack loader，加载 .md 文件，并返回文件内内容字符串，以实现使 webpack 可加载 .md 文件的功能
+Webpack loader，加载 .md 文件，并返回文件内内容字符串，以实现使 webpack 可加载 .md 文件的功能
 
 ### introduce
-This project is a webpack loader that loads .md files and returns the file's internal content string to enable webpack to load .md files.
+Webpack loader, loads .md files and returns the file's internal content string to enable webpack to load .md files.
 
 ### 演示项目参考
 * [qing-markdown 演示项目](https://github.com/qinkaiyuan/qing-markdown#%E6%BC%94%E7%A4%BA%E9%A1%B9%E7%9B%AE)
